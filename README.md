@@ -31,8 +31,8 @@
 透過Hahow平台修習郭耀仁老師開設的SQL的五十道練習：初學者友善的資料庫入門，完成所有課程、課後習題，並獲得老師給予的正面回饋。  
 學習目標：能透過sql的工具操做資料庫，具備資料分析的取數能力。  
 
-### LINE FRESH 2021 - 競賽
-> [資料夾連結](https://github.com/yan-hao-yu/Side-project/tree/main/課後學習與競賽/LINE FRESH 2021)  
+### LINE FRESH 2021 - 競賽 
+> [資料夾連結](https://github.com/yan-hao-yu/Side-project/tree/main/課後學習與競賽/LINE_FRESH_2021)  
 作品名：下一站，鐵花
 與有行銷背景的同學跨校組隊，希望透過資料分析與行銷的結合協助鐵花商圈的數位轉型，提出以數位票卷的方案提升遊客人數。  
 
