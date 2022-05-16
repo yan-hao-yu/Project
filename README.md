@@ -15,24 +15,24 @@
 > [資料夾連結](https://github.com/yan-hao-yu/Side-project/tree/main/專案製作/淘寶)  
 
 ### 百貨業銷售數據分析 - 畢業專題(執行中...)
-> [tafeng專案連結](https://youtu.be/xIL_zhQeV3Q)  
+> [資料夾連結](https://github.com/yan-hao-yu/Side-project/tree/main/專案製作/百貨銷售數據分析)  
 
 ### 北市婦產科大量轉出研究 - 期末專案
-> [健保期末專案連結](https://youtu.be/xIL_zhQeV3Q)   
+> [資料夾連結](https://github.com/yan-hao-yu/Side-project/tree/main/專案製作/北市婦產科大量轉出研究)   
 利用教授提供的健保資料庫進行期末專案，本組試著觀察各科別的轉出轉入情況，發現婦產科在台北擁有豐富的醫療量能的情況下竟有出現大量的病患轉出，而感到興趣，因此決定依此為出發點針對北市的婦產科大量轉出為題進行資料探索，並找出原因。  
 
 ### 平台拆解 - 行銷期中
-> [平台拆解連結](https://youtu.be/xIL_zhQeV3Q)  
+> [資料夾連結](https://github.com/yan-hao-yu/Side-project/tree/main/專案製作/平台拆解)  
 利用教授提供的健保資料庫進行期末專案，本組試著觀察各科別的轉出轉入情況，發現婦產科在台北擁有豐富的醫療量能的情況下竟有出現大量的病患轉出，而感到興趣，因此決定依此為出發點針對北市的婦產科大量轉出為題進行資料探索，並找出原因。 
 
 ## C.課後學習與競賽
 ### SQL自學 - 課後學習
-> [完課證明連結](https://zest-bathroom-0b8.notion.site/SQL-a00ddbe51bc94eee9c851e038e2297c0)  
+> [資料夾連結](https://github.com/yan-hao-yu/Side-project/tree/main/課後學習與競賽/SQL自學)  
 透過Hahow平台修習郭耀仁老師開設的SQL的五十道練習：初學者友善的資料庫入門，完成所有課程、課後習題，並獲得老師給予的正面回饋。  
 學習目標：能透過sql的工具操做資料庫，具備資料分析的取數能力。  
 
 ### LINE FRESH 2021 - 競賽
-> [LINE FRESH企劃書連結](https://youtu.be/xIL_zhQeV3Q)  
+> [資料夾連結](https://github.com/yan-hao-yu/Side-project/tree/main/課後學習與競賽/LINE FRESH 2021)  
 作品名：下一站，鐵花
 與有行銷背景的同學跨校組隊，希望透過資料分析與行銷的結合協助鐵花商圈的數位轉型，提出以數位票卷的方案提升遊客人數。  
 
