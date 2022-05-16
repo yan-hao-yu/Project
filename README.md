@@ -12,7 +12,7 @@
 
 ## B.專案製作
 ### 電商平台於雙12前後之用戶行為研究-Side Project
-> [taobao專案連結](https://youtu.be/xIL_zhQeV3Q)  
+> [taobao專案書面連結](https://zest-bathroom-0b8.notion.site/12-b48aab36bdcc4f358577a53761ee637c)  
 
 ### 百貨業銷售數據分析 - 畢業專題
 > [tafeng專案連結](https://youtu.be/xIL_zhQeV3Q)  
