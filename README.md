@@ -14,6 +14,13 @@
 ### 電商平台於雙12前後之用戶行為研究-Side Project
 > [taobao專案連結](https://youtu.be/xIL_zhQeV3Q)  
 
+### 百貨業銷售數據分析
+> [taobao專案連結](https://youtu.be/xIL_zhQeV3Q)  
+
+### 北市婦產科大量轉出研究
+> [taobao專案連結](https://youtu.be/xIL_zhQeV3Q) 
+利用教授提供的健保資料庫進行期末專案，本組試著觀察各科別的轉出轉入情況，發現婦產科在台北擁有豐富的醫療量能的情況下竟有出現大量的病患轉出，而感到興趣，因此決定依此為出發點針對北市的婦產科大量轉出為題進行資料探索，並找出原因。  
+
 ## C.課後學習與競賽
 ### SQL - 課後學習
 > [完課證明連結](https://youtu.be/xIL_zhQeV3Q)  
