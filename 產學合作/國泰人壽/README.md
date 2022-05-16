@@ -12,10 +12,17 @@
 > 4.實現團隊發想規劃的行銷網頁設計   
 > 5.支援行銷活動發想設計   
 
-## 期末專案報吿  
-> 1. [CWP報告影片連結](https://youtu.be/xIL_zhQeV3Q)  
-> 2. [CWP廣宣影片連結](https://youtu.be/fhxmvX00ZhA)  
+## 期末發表  
+> 1. [CWP簡報連結](https://youtu.be/xIL_zhQeV3Q)  
+> 2. [CWP報告影片連結](https://youtu.be/xIL_zhQeV3Q)  
+> 3. [CWP廣宣影片連結](https://youtu.be/fhxmvX00ZhA)  
 
-
+#### 團隊成員  
+| 組員 | 學校 | 電子郵箱 |
+| :-----: | :----: | :----: |
+| 楊皓宇 | 東吳巨資 | will89117@gmail.com |
+| 林羿彣 | 東吳巨資 | vivianlin0327@gmail.com |
+| 彭盛皓 | 台大數學 | b06201008@ntu.edu.tw |
+| 李佳恩 | 政大風管 | 105308030@nccu.edu.tw |
 
 
