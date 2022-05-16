@@ -15,7 +15,7 @@
 > [taobao專案連結](https://youtu.be/xIL_zhQeV3Q)  
 
 ### 百貨業銷售數據分析 - 畢業專賺
-> [taobao專案連結](https://youtu.be/xIL_zhQeV3Q)  
+> [tafeng專案連結](https://youtu.be/xIL_zhQeV3Q)  
 
 ### 北市婦產科大量轉出研究 - 期末專案
 > [taobao專案連結](https://youtu.be/xIL_zhQeV3Q) 
