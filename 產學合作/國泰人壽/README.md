@@ -13,7 +13,7 @@
 > 5.支援行銷活動發想設計   
 
 ## 期末發表  
-> 1. [CWP簡報連結](https://youtu.be/xIL_zhQeV3Q)  
+> 1. [CWP簡報連結](https://github.com/yan-hao-yu/Side-project/blob/main/產學合作/國泰人壽/CWP%20推動案.pdf)  
 > 2. [CWP報告影片連結](https://youtu.be/xIL_zhQeV3Q)  
 > 3. [CWP廣宣影片連結](https://youtu.be/fhxmvX00ZhA)  
 
