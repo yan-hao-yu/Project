@@ -12,7 +12,7 @@
 
 ## B.專案製作
 ### 電商平台於雙12前後之用戶行為研究-Side Project
-> [資料夾連結](https://github.com/yan-hao-yu/Project/tree/main/專案製作/淘寶)  
+> [資料夾連結](https://github.com/yan-hao-yu/Project/tree/main/專案製作/電商平台於雙12前後之用戶行為研究)  
 
 ### 百貨業銷售數據分析 - 畢業專題(執行中...)
 > [資料夾連結](https://github.com/yan-hao-yu/Project/tree/main/專案製作/百貨銷售數據分析)  
