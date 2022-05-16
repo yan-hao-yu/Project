@@ -23,7 +23,7 @@
 
 ## C.課後學習與競賽
 ### SQL - 課後學習
-> [完課證明連結](https://youtu.be/xIL_zhQeV3Q)  
+> [完課證明連結](https://zest-bathroom-0b8.notion.site/SQL-a00ddbe51bc94eee9c851e038e2297c0)  
 透過Hahow平台修習郭耀仁老師開設的SQL的五十道練習：初學者友善的資料庫入門，完成所有課程、課後習題，並獲得老師給予的正面回饋。  
 學習目標：能透過sql的工具操做資料庫，具備資料分析的取數能力。  
 
