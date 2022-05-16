@@ -14,7 +14,7 @@
 ### 電商平台於雙12前後之用戶行為研究-Side Project
 > [taobao專案連結](https://youtu.be/xIL_zhQeV3Q)  
 
-### 百貨業銷售數據分析 - 畢業專賺
+### 百貨業銷售數據分析 - 畢業專題
 > [tafeng專案連結](https://youtu.be/xIL_zhQeV3Q)  
 
 ### 北市婦產科大量轉出研究 - 期末專案
