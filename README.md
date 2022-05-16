@@ -13,3 +13,10 @@
 ## B.專案製作
 ### ㄧ、電商平台於雙12前後之用戶行為研究-Side Project
 > [taobao專案連結](https://youtu.be/xIL_zhQeV3Q)
+
+## C.課後學習
+### SQL相關知識
+> [完課證明連結](https://youtu.be/xIL_zhQeV3Q)
+> 透過Hahow數位平台學習郭耀仁老師開設的SQL的五十道練習：初學者友善的資料庫入門，完成所有課程、課後習題，並獲得老師給予的正面回饋。
+
+
